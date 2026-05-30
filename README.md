@@ -11,5 +11,10 @@ SQL query untuk membuat tabel analisa_transaksi dari dataset Kimia Farma periode
 ## Tools
 - Google BigQuery
 
+## Dashboard dengan Looker Studio
+https://datastudio.google.com/reporting/488914f9-9591-4907-ad93-1457097c9b3d 
+
 ## Author
 Dhiti Wahyuni — Rakamin Academy Final Project
+dhitiwahyuni8@gmail.com 
+www.linkedin.com/in/dhitiwahyuni 
